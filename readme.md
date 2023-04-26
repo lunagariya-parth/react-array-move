@@ -15,22 +15,27 @@
     
 ## Documentation
 
-> arrayMoveImmutable(array, pos1, pos2)
+> **arrayMoveImmutable(array, pos1, pos2)**
+
 This method makes a copy of provided array and than changes the positions of array element form `array[pos1] <->array[pos2]`. Basically swap elements and return new modified array `immumutable array`.
 
-> arrayMoveImmutable(array, pos1, pos2)
+> **arrayMoveImmutable(array, pos1, pos2)**
+
 This will modifies given array `mutable array`.
 
-## array
+> **array**
+
 Type: `Array`
 
-## pos1
+> **pos1**
+
 Type: `number`
 
 The index of item to move.
 If negative, it will begin that many elements from the end.
 
-## pos2
+> **pos2**
+
 Type: `number`
 
 The index of where to move the item.
