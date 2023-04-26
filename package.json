@@ -1,0 +1,38 @@
+{
+  "name": "react-array-move",
+  "version": "1.0.0",
+  "description": "This function allows to change positions of array elements.",
+  "main": "react-array-move.js",
+  "scripts": {
+    "test": "`test`"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lunagariya-parth/react-array-move.git"
+  },
+  "keywords": [
+    "React",
+    "Arrays",
+    "Array",
+    "manipulation",
+    "Drag",
+    "and",
+    "drop",
+    "Sorting",
+    "Ordering",
+    "Move",
+    "Reorder",
+    "Index",
+    "Component",
+    "HOC",
+    "Utility",
+    "Library",
+    "JavaScript"
+  ],
+  "author": "Parth Lunagariya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lunagariya-parth/react-array-move/issues"
+  },
+  "homepage": "https://github.com/lunagariya-parth/react-array-move#readme"
+}
