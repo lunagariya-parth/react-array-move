@@ -19,7 +19,7 @@
 
 > **arrayMoveImmutable(array, pos1, pos2)**
 
-This method makes a copy of provided array and than changes the positions of array element form `array[pos1] <->array[pos2]`. Basically swap elements and return new modified array `immumutable array`.
+This method makes a copy of provided array and than changes the positions of array elements  `(array[pos1] <->array[pos2])`. Basically swap elements and return new modified array `immumutable array`.
 
 > **arrayMoveImmutable(array, pos1, pos2)**
 
