@@ -1,5 +1,7 @@
 
 # react-array-move
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
 
 > This package have methods to manipulate array elements for changing its position.
 
@@ -62,9 +64,5 @@ console.log(num3);
 
 
 ```
-## Badges
 
-
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
